@@ -1,2 +1,2 @@
-# class21
-my own library ( isTouching ).
+# collisionAlgorithm
+Algorithm to detect collision between two objects
